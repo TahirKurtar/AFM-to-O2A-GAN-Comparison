@@ -62,7 +62,7 @@ Unlike CycleGAN, it requires paired training data. Unlike GauGAN, it does not in
 
 **Reference architecture:**
 
-![Pix2Pix Reference](images/references/pix2pix_reference.png)
+![Pix2Pix Reference](images/references/pix2pix_reference.webp)
 
 ---
 
@@ -138,7 +138,7 @@ The simplest model in the comparison. The absence of pixel-wise loss means the m
 
 **Reference architecture:**
 
-![Vanilla GAN Reference](images/references/vanilla_gan_reference.png)
+![Vanilla GAN Reference](images/references/vanilla_gan_reference.webp)
 
 ---
 
@@ -164,7 +164,7 @@ The only model that does **not** use paired data during training. This makes it 
 
 **Reference architecture:**
 
-![CycleGAN Reference](images/references/cyclegan_reference.png)
+![CycleGAN Reference](images/references/cyclegan_reference.webp)
 
 ---
 
