@@ -276,3 +276,8 @@ PSNR = 10 × log10(255² / MSE)
 4. Bagherkhani et al. Antenna Near-Field Reconstruction from Far-Field Data Using CNNs. arXiv:2504.17065, 2025.
 5. Chen & Dal Negro. Physics-informed Neural Networks for Imaging and Parameter Retrieval. arXiv:2109.12754, 2021.
 6. Stanciu et al. Inferring s-SNOM Data from Atomic Force Microscopy Images. arXiv:2504.02982, 2025.
+7. https://www.researchgate.net/publication/383558465/figure/fig3/AS:11431281274620774@1725036289021/Schema-of-Pix2Pix-GAN-architecture.jpg
+8. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgirWSTo26Ghkm4ito21-_2_YIaR4OH8FMIw&s
+9. https://www.researchgate.net/publication/348871964/figure/fig5/AS:1003598439792648@1616287922703/Detail-of-GauGAN-architecture.png
+10. https://www.researchgate.net/publication/340458845/figure/fig1/AS:11431281379521923@1744760355523/The-architecture-of-vanilla-GANs.tif
+11. https://www.researchgate.net/publication/340691571/figure/fig1/AS:11431281179193248@1691160252565/Network-architecture-and-data-flow-chart-of-CycleGAN-for-image-to-image-translation.png
