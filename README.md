@@ -251,7 +251,7 @@ PSNR = 10 × log10(255² / MSE)
 └── README.md
 ```
 
-> ⚠️ CycleGAN model checkpoints (~332 MB per file, 20 epochs) are not included due to GitHub file size limits. Contact: tahirkurtar50@gmail.com
+> ⚠️ CycleGAN model checkpoints (~340 MB per file, 20 epochs) are not included in this repository due to GitHub file size limits. All checkpoints are available on Hugging Face: [Download Checkpoints](https://huggingface.co/TahirKurtar/cyclegan-afm-to-o2a)
 
 ---
 
